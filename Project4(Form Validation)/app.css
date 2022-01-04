@@ -1,0 +1,28 @@
+.main{
+    background-image: url(/image/travel.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+    color: rgb(236, 240, 216);
+    
+}
+
+h1{
+    text-align: center;
+    color: rgb(105, 22, 47);
+    font-weight: 600;
+    font-style: italic;
+}
+.form-control{
+    border: none;
+    border-bottom: 2px solid white;
+    border-radius: 0px;
+    outline: 0;
+}
+form{
+    border: 2px solid white;
+    padding: 20px;
+    width: 50%;
+    background-color: rgb(37, 36, 36);
+    opacity: 0.8;
+    position:-webkit-sticky;
+}
